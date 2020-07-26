@@ -1,0 +1,3 @@
+# cbxinfra-ansible-public
+
+IF YOU HAVE ANY SELF RESPECT DO NOT USE MY PLAYBOOKS
